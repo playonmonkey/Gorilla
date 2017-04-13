@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.playonmonkey" name="Playonmonkey" version="1.3" provider-name="Playonmonkey">
 	<extension point="xbmc.addon.repository" name="Playonmonkey">
-		<info compressed="false">http://freeitvonline.com/addon/playon/Plugins/addons.xml</info>
-		<checksum>http://freeitvonline.com/addon/playon/Plugins/addons.xml.md5</checksum>
-		<datadir zip="true">http://freeitvonline.com/addon/playon/Plugins</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/playonmonkey/Gorilla/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/playonmonkey/Gorilla/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/playonmonkey/Gorilla/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Playonmonkeys Repository</summary>
