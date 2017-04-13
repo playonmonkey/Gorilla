@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.program.mcwm" version="1.0.0"
+       name="Media Center wizards Messages" provider-name="Playonmonkey">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.addon.common" optional="true" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>MEDIA CENTER WIZARDS NEWS</summary>
+  	<description>Media center wizards Messages</description>
+  	<disclaimer>We do not assume any responsibility for any problems this may cause plugin.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+  	<website>http://www.mediacenterwizards.com</website>
+  	<source></source>
+  	<email>none</email>
+  </extension>
+</addon>
