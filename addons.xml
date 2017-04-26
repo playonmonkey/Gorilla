@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.Gorillawizard" name="[COLOR gold][B]Gorilla Wizard[/B][/COLOR]" version="3.3.2" provider-name="Playonmonkey/FTG">
+<addon id="plugin.program.Gorillawizard" name="[COLOR yellow][B]Playonmonkeys Build Wizard[/B][/COLOR]" version="3.3.4" provider-name="Playonmonkey/FTG">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -9,8 +9,8 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Gorilla Wizard</summary>
-    <description lang="en">In this wizard you will find the latest Playonmonkey/MediaCenterWizards builds....Without work from the Devs and Streaming Websites this would not of been possible! Thanks whufclee@ TotalXBMC,GUYS @ TI, FTG, MuckyDuck, ][NT3L][G3NC][ for the app installer and all Developers who created add-ons used in my build. Also a very special Thanks to Surfacingx for the code used in this add-on. Visit www.mediacenterwizards.com for more info and support.</description>
+    <summary lang="en">Playonmonkeys Build Wizard</summary>
+    <description lang="en">In this wizard you will find the latest Playonmonkeys build....Without work from the Devs and Streaming Websites this would not of been possible! Thanks whufclee@ TotalXBMC,GUYS @ TI, FTG, MuckyDuck, ][NT3L][G3NC][ for the app installer and all Developers who created add-ons used in my build. Also a very special Thanks to Surfacingx for the code used in this add-on. Visit www.mediacenterwizards.com for more info and support.</description>
     <platform>all</platform>
   </extension>
 </addon>
