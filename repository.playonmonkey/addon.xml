@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.playonmonkey" name="Playonmonkey" version="1.3" provider-name="Playonmonkey">
+<addon id="repository.playonmonkey" name="Playonmonkey" version="1.4" provider-name="Playonmonkey">
 	<extension point="xbmc.addon.repository" name="Playonmonkey">
 		<info compressed="false">https://raw.githubusercontent.com/playonmonkey/Gorilla/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/playonmonkey/Gorilla/master/addons.xml.md5</checksum>
