@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.playonmonkey" name="Playonmonkey" version="1.4" provider-name="Playonmonkey">
+<addon id="repository.playonmonkey" name="Playonmonkey" version="1.5" provider-name="Playonmonkey">
 	<extension point="xbmc.addon.repository" name="Playonmonkey">
 		<info compressed="false">https://raw.githubusercontent.com/playonmonkey/Gorilla/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/playonmonkey/Gorilla/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/playonmonkey/Gorilla/master/</datadir>
+		<datadir zip="true">https://raw.github.com/playonmonkey/Gorilla/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Playonmonkeys Repository</summary>
@@ -11,4 +11,3 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-
