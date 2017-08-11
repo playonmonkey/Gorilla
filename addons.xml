@@ -3,7 +3,7 @@
 <addon
   id="plugin.program.playonmonkey"
   name="[COLOR yellow]Playonmonkeys Wizard[/COLOR]"
-  version="1.0.6"
+  version="1.0.7"
   provider-name="[COLOR yellow]Playonmonkey[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
